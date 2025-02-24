@@ -4,7 +4,6 @@ import random
 import threading
 import time
 from PIL import Image, ImageTk
-from src.game import Game
 from src.player import Player
 from src.card import standard_pokemon_cards
 
